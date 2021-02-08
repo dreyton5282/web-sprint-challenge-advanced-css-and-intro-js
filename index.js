@@ -212,7 +212,7 @@ Practice accessing data above by console.log-ing following items:
 
 //(2) Bio of the third artist (2nd index) in the array 
 
-
+const myName = "Dreyton"
 
 /* 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 2: 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 
 (no function needed) 
